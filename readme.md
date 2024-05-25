@@ -9,9 +9,11 @@ Bu proje, SwiftUI kullanarak basit bir giriş ve kayıt ekranı oluşturan bir u
 2. [Ekran Görüntüleri](#ekran-görüntüleri)
 3. [Gereksinimler](#gereksinimler)
 4. [Kurulum](#kurulum)
-5. [Kullanım](#kullanım)
-6. [Güncellemeler](#güncellemeler)
-7. [Katkıda Bulunma](#katkıda-bulunma)
+5. [Güncellemeler](#güncellemeler)
+6. [Katkıda Bulunma](#katkıda-bulunma)
+7. [Nasıl Çalıştırılır](#nasıl-çalıştırılır)
+8. [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
+9. [Geliştirici](#geliştirici)
 
 ---
 
@@ -55,13 +57,6 @@ Bu proje, SwiftUI kullanarak basit bir giriş ve kayıt ekranı oluşturan bir u
    ```bash
    open SwiftUILoginScreen.xcodeproj
 
-
-# Kullanım
-
-1. Projeyi Xcode'da açın.
-2. Simülatörde veya fiziksel cihazda çalıştırın.
-3. Giriş veya kayıt ekranını kullanarak farklı kullanıcı arayüzlerini keşfedin.
-
 ## Güncellemeler
 
 ### Gelecek Güncellemeler:
@@ -87,4 +82,14 @@ Bu proje, SwiftUI kullanarak basit bir giriş ve kayıt ekranı oluşturan bir u
     ```
 5. Bir Pull Request oluşturun.
 
+## Nasıl Çalıştırılır
+1. Projeyi klonlayın veya indirin.
+2. Xcode'da `LoginScreen.xcodeproj` dosyasını açın.
+3. Bir simülatör veya fiziksel cihaz seçerek projeyi çalıştırın.
+
+## Kullanılan Teknolojiler
+- SwiftUI
+
+## Geliştirici
+- [Doğu GNR](https://github.com/doguner1)
 
