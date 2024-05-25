@@ -12,7 +12,6 @@ Bu proje, SwiftUI kullanarak basit bir giriş ve kayıt ekranı oluşturan bir u
 5. [Kullanım](#kullanım)
 6. [Güncellemeler](#güncellemeler)
 7. [Katkıda Bulunma](#katkıda-bulunma)
-8. [Lisans](#lisans)
 
 ---
 
